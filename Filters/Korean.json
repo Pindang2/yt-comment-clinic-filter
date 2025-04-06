@@ -1,7 +1,8 @@
 {
     "lang":"ko-KR",
-    "version":"b0.1 v0001",
+    "version":"b0.1 v0002",
     "beta":true,
+    "description":"한국어 기본 필터",
     "filters":[
         {
             "type":"accountpattern",
@@ -21,6 +22,9 @@
         },{
             "type":"string",
             "template":"🔙체. 놀에 올려둔 쥬. 소 빨리ㄱㄱ"
+        },{
+            "type":"word",
+            "template":"짬지 모형"
         }
     ]
 }
