@@ -2,7 +2,7 @@
     "TOC":["Korean"],
     "Korean":{
         "rel": 1.0,
-        "relver": "0004",
+        "relver": "0005",
         "is_beta": true,
         "description":"한국어 기본 필터"
     }
